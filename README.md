@@ -11,3 +11,7 @@ Iterative continious improvement: how to improve work without sacrifacing curren
 
 ---When I can get to add something public, I can easily do it here. 
 ---I will avoid making it a blog, so I will go back to it at a later point. 
+
+
+References:
+[1] https://qotoqot.com/blog/improving-focus/

@@ -15,3 +15,4 @@ Iterative continious improvement: how to improve work without sacrifacing curren
 
 References:
 [1] https://qotoqot.com/blog/improving-focus/
+[2] http://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/
